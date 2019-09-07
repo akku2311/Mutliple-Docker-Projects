@@ -1,7 +1,7 @@
 # Mutliple-Docker-Projects
 Multiple Project Handling
 
-Created three Branches of Same projects
+Created three Branches of Same project
 Master Branch,
 Akash-Branch-1,
 Akash-Branch-2. 
