@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Remove Flask Docker Demo2 Folder
+Flask_Docker_Demo2/
