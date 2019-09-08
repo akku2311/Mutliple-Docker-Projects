@@ -1,4 +1,13 @@
 # Mutliple-Docker-Projects
 Multiple Project Handling
 
-Akash-Branch-2 contains Flask_Docker_Demo1 with Flask Dockerized Master 1 and Flask_Docker_Demo2 with Flask Dockerized - 2.
+Created three Branches of Same project
+Master Branch,
+Akash-Branch-1,
+Akash-Branch-2. 
+
+Changes made in Akash-Branch-1 is related to Flask-Docker-Demo1.
+
+Changes made in Akash-Branch-2 is related to Flask-Docker-Demo2.
+
+
