@@ -6,7 +6,7 @@ app = Flask(__name__)
 # first endpoint #
 @app.route('/')
 def hello_world():
-    return 'Flask Dockerized - 1'
+    return 'Flask Dockerized Master 1 gitignore 12'
 
 
 if __name__ == '__main__':
